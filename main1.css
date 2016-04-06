@@ -1,0 +1,21 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width:200px;
+	height: 200px;
+	display: block;
+	position: static;
+}
+.uno{
+	background: #ee3e64;
+}
+.dos{
+	background: #44accf;
+}
+.tres{
+	background: #b7d84b;
+}
+
